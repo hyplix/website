@@ -1,0 +1,29 @@
+.navbar-items {
+    text-align: right;
+    position: absolute;
+    width: 100%;
+    top: 6px;
+    padding: 10px 40px;
+    word-spacing: 20px;
+}
+
+.navbar-logo {
+    position: absolute;
+    left: 10%;
+    top: 10px;
+}
+
+.navbar-items a {
+    text-decoration: none;
+    font-size: 18px;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+
+.navbar-items a:hover {
+    color: #625afd;
+}
+
+.navbar-items ul li {
+    display: inline-block;
+}

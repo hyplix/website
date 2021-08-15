@@ -1,0 +1,15 @@
+.card {
+    display: inline-block;
+    margin: 10px 20px;
+    text-align: left;
+}
+
+.card:hover {
+    padding: 4px;
+}
+
+.container-card a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color: aliceblue;
+}

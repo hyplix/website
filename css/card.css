@@ -4,11 +4,6 @@
     text-align: left;
 }
 
-.card:hover {
-    padding: 4px;
-    transition: 0.3s;
-}
-
 .container-card a {
     text-decoration: none;
     font-family: sans-serif;
